@@ -1,6 +1,15 @@
-# what is a useCallback Hook in React. ?
+---
+title: "what is a useCallback Hook in React. ?"
+seoTitle: "how to use useCallback hook? | NisharMultani"
+seoDescription: "In React, useCallback is a hook that is used to memoize a function. When a function is memoized,"
+datePublished: Tue Feb 28 2023 17:47:57 GMT+0000 (Coordinated Universal Time)
+cuid: cleojkyt000020al52t8a7xfo
+slug: what-is-a-usecallback-hook-in-react
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1679481353109/a00a5882-b4e0-4125-9ba1-65f708651a6b.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1677601747235/8f9f89c4-0309-486e-ace7-97785cf98d5a.jpeg
+tags: javascript, reactjs, hooks, reacthooks, usecallback
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1677601686827/5e0b183b-9920-4ff3-96ab-623474127323.jpeg align="center")
+---
 
 In React, `useCallback` is a hook that is used to memoize a function. When a function is memoized, it means that the function is only re-created when its dependencies change, and not on every render.
 
